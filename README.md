@@ -1,4 +1,6 @@
 ## Face Recognition with 3D imaging, OpenCV and Neural Nets (FR3ONN)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdmitryvodop%2Ffr3onn.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdmitryvodop%2Ffr3onn?ref=badge_shield)
+
 
 ### Overview
 
@@ -23,3 +25,7 @@ where ```<db_dir>``` is a path to custom database, ```<camera>``` is a camera nu
 
 _Intel, Intel Joule and Intel RealSense are trademarks of Intel Corporation or its subsidiaries in the U.S. and/or other countries._  
 _\* Other names and brands may be claimed as the property of others._
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdmitryvodop%2Ffr3onn.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdmitryvodop%2Ffr3onn?ref=badge_large)
